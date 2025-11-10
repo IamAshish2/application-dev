@@ -1,0 +1,15 @@
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\bin\Debug\net8.0\workshop_w3.exe
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\bin\Debug\net8.0\workshop_w3.deps.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\bin\Debug\net8.0\workshop_w3.runtimeconfig.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\bin\Debug\net8.0\workshop_w3.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\bin\Debug\net8.0\workshop_w3.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.AssemblyInfoInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.AssemblyInfo.cs
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.sourcelink.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\refint\workshop_w3.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\workshop_w3.genruntimeconfig.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\week 03\workshop_w3\workshop_w3\obj\Debug\net8.0\ref\workshop_w3.dll
