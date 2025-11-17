@@ -1,0 +1,14 @@
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\bin\Debug\net8.0\task03.exe
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\bin\Debug\net8.0\task03.deps.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\bin\Debug\net8.0\task03.runtimeconfig.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\bin\Debug\net8.0\task03.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\bin\Debug\net8.0\task03.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.AssemblyInfoInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.AssemblyInfo.cs
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\refint\task03.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\task03.genruntimeconfig.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 03\workshop04\task03\obj\Debug\net8.0\ref\task03.dll
