@@ -1,0 +1,15 @@
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\bin\Debug\net8.0\task06.exe
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\bin\Debug\net8.0\task06.deps.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\bin\Debug\net8.0\task06.runtimeconfig.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\bin\Debug\net8.0\task06.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\bin\Debug\net8.0\task06.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.AssemblyInfoInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.AssemblyInfo.cs
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.csproj.CoreCompileInputs.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.sourcelink.json
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\refint\task06.dll
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.pdb
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\task06.genruntimeconfig.cache
+C:\Users\ashish\Documents\IIC\final year\Application Development\sem 1\week 02\workshop04\task06\obj\Debug\net8.0\ref\task06.dll

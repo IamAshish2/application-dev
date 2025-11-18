@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-namespace task05;
+﻿namespace task05;
 
 public class Program
 {
