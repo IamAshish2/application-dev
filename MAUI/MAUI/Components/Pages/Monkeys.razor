@@ -1,0 +1,67 @@
+﻿@page "/monkey"
+
+<h1>Monkey Page</h1>
+
+@if (monkeys == null || !monkeys.Any())
+{
+    <h1>No Monkeys Found!</h1>
+}
+else
+{
+    <div style="display:flex; flex-wrap:wrap; gap:20px;">
+        @foreach (var monkey in monkeys)
+        {
+            <div style="width:250px; border:1px solid #ccc; border-radius:10px; padding:10px;">
+                <img src="@monkey.Image" alt="@monkey.Name" style="width:100%; border-radius:10px;" />
+
+                <h3>@monkey.Name</h3>
+                <p><b>Location:</b> @monkey.Location</p>
+            </div>
+        }
+    </div>
+}
+
+
+@code {
+    public class MonkeyType
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Image { get; set; }
+        public string Details { get; set; }
+        public int Population { get; set; }
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+    }
+
+    private List<MonkeyType> monkeys = new List<MonkeyType>
+    {
+        new MonkeyType {
+            Name = "Baboon",
+            Location = "Africa & Asia",
+            Details = "Baboons are African and Arabian Old World monkeys belonging to the genus Papio.",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+            Population = 10000,
+            Latitude = -8.783195,
+            Longitude = 34.508523
+        },
+        new MonkeyType {
+            Name = "Capuchin Monkey",
+            Location = "Central & South America",
+            Details = "The capuchin monkeys are New World monkeys of the subfamily Cebinae.",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+            Population = 23000,
+            Latitude = 12.769013,
+            Longitude = -85.602364
+        },
+        new MonkeyType {
+            Name = "Blue Monkey",
+            Location = "Central and East Africa",
+            Details = "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa.",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
+            Population = 12000,
+            Latitude = 1.957709,
+            Longitude = 37.297204
+        }
+    };
+}
