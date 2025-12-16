@@ -1,0 +1,25 @@
+﻿<div class="card shadow-sm m-3" style="width: 20rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Name</h5>
+
+        <p class="card-text">
+            <strong>Ingredients:</strong><br />
+            @Ingredients
+        </p>
+
+        <p class="card-text">
+            <strong>Price:</strong> $@Price
+        </p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Name { get; set; } = string.Empty;
+
+    [Parameter]
+    public string Ingredients { get; set; } = string.Empty;
+
+    [Parameter]
+    public decimal Price { get; set; }
+}

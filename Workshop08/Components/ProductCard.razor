@@ -1,0 +1,21 @@
+﻿@using Workshop08.Models
+
+
+<div class="card shadow-sm m-2" style="width: 18rem;">
+    <img src="@Product.ImageUrl" class="card-img-top" alt="@Product.Name" />
+
+    <div class="card-body">
+        <h5 class="card-title">@Product.Name</h5>
+        <p class="card-text">
+            Price: <strong>$@Product.Price</strong>
+        </p>
+        <p class="card-text">
+            ❤️ @Product.Likes Likes
+        </p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Product Product { get; set; } = default!;
+}

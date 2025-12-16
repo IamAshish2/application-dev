@@ -1,0 +1,115 @@
+﻿@* @using Workshop08.Components.Pages
+@using Workshop08.Models
+
+<h2 class="mb-4">Food Menu</h2>
+
+<div class="d-flex flex-wrap">
+    @foreach (var item in FoodItems)
+    {
+        <ItemCard 
+            Name="@item.Name"
+            Ingredients="@item.Ingredients"
+            Price="@item.Price" />
+    }
+</div>
+
+@code {
+    private List<FoodItem> FoodItems = new()
+    {
+        new FoodItem
+        {
+            Name = "Margherita Pizza",
+            Ingredients = "Tomato sauce, mozzarella cheese, basil",
+            Price = 8.99m
+        },
+        new FoodItem
+        {
+            Name = "Veg Burger",
+            Ingredients = "Vegetable patty, lettuce, tomato, sauce",
+            Price = 6.49m
+        },
+        new FoodItem
+        {
+            Name = "Pasta Alfredo",
+            Ingredients = "Pasta, cream, parmesan cheese",
+            Price = 9.75m
+        },
+        new FoodItem
+        {
+            Name = "Fried Rice",
+            Ingredients = "Rice, vegetables, soy sauce",
+            Price = 7.25m
+        }
+    };
+} *@
+
+
+@page "/food-menu"
+@using Workshop08.Components.Pages
+@using Workshop08.Models
+
+<h2 class="mb-4">Food Menu</h2>
+
+<div class="mb-3">
+    <button class="btn btn-outline-primary me-2" @onclick="SortByPrice">
+        Sort by Price
+    </button>
+
+    <button class="btn btn-outline-secondary" @onclick="SortByName">
+        Sort by Name
+    </button>
+</div>
+
+<div class="d-flex flex-wrap">
+    @foreach (var item in FoodItems)
+    {
+        <ItemCard 
+            Name="@item.Name"
+            Ingredients="@item.Ingredients"
+            Price="@item.Price" />
+    }
+</div>
+
+@code {
+    private List<FoodItem> FoodItems = new()
+    {
+        new FoodItem
+        {
+            Name = "Margherita Pizza",
+            Ingredients = "Tomato sauce, mozzarella cheese, basil",
+            Price = 8.99m
+        },
+        new FoodItem
+        {
+            Name = "Veg Burger",
+            Ingredients = "Vegetable patty, lettuce, tomato, sauce",
+            Price = 6.49m
+        },
+        new FoodItem
+        {
+            Name = "Pasta Alfredo",
+            Ingredients = "Pasta, cream, parmesan cheese",
+            Price = 9.75m
+        },
+        new FoodItem
+        {
+            Name = "Fried Rice",
+            Ingredients = "Rice, vegetables, soy sauce",
+            Price = 7.25m
+        }
+    };
+
+    private void SortByPrice()
+    {
+        FoodItems = FoodItems
+            .OrderBy(item => item.Price)
+            .ToList();
+    }
+
+    private void SortByName()
+    {
+        FoodItems = FoodItems
+            .OrderBy(item => item.Name)
+            .ToList();
+    }
+}
